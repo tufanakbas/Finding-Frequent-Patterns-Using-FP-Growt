@@ -1,13 +1,4 @@
-# CEN429 – Introduction to Data Science 
-
-Asst. Prof. Dr. **********
-
 # Finding Frequent Patterns Using FP-Growth Algorithm
-
-## Team Members
-- Tufan Akbaş - **********
-- ********************
-
 
 ## How To Use
 - Clone this repository
